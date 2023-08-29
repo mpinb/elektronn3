@@ -16,7 +16,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
 import math
-import elektronn3.models.knn.lib.python.nearest_neighbors as nearest_neighbors
+import elektronn3.models.knn.nearest_neighbors as nearest_neighbors
 from abc import ABC
 from typing import Tuple, List
 
